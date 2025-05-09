@@ -594,7 +594,7 @@ img {
     justify-content: center;
     fill: transparent;
 }
-.low-span:checked{
+.lower-inp:checked{
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;

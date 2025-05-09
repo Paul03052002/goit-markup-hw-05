@@ -416,6 +416,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #ffffff;
+    
 }
 .foot-form{
     display: flex;
@@ -453,6 +454,9 @@ img {
     background-color: #4D5AE5;
     border: none;
     border-radius: 4px;
+}
+.foot-media{
+    margin-right: 80px;
 }
 .btn-send{
     margin-left: 16px;
@@ -573,6 +577,9 @@ img {
 }
 .comment:focus{
     border-color: #4D5AE5;
+}
+.comment::placeholder{
+    color: #75757580;
 }
 .click{
     margin-bottom: 24px;
